@@ -1,0 +1,90 @@
+Terms of Service (Nutzungsbedingungen)
+Stand: 8. November 2026
+
+1. Geltungsbereich und Akzeptanz
+Diese Nutzungsbedingungen (im Folgenden „Bedingungen“) regeln die Nutzung des Discord-Bots [Name des Bots einfügen] (im Folgenden „Bot“), einschließlich der integrierten TikTok-Benachrichtigungs- und Live-Funktionen.
+Durch das Hinzufügen des Bots zu einem Discord-Server oder die Nutzung seiner Befehle akzeptierst du diese Bedingungen vollständig. Wenn du diesen Bedingungen nicht zustimmst, darfst du den Bot nicht nutzen.
+
+2. Beschreibung des Dienstes
+Der Bot bietet automatisierte Benachrichtigungen und Funktionen für verschiedene Plattformen, insbesondere die Integration von TikTok-Live-Streams (z. B. automatische Benachrichtigungen auf Discord-Servern, wenn ein bestimmter Creator live geht). Der Funktionsumfang kann sich jederzeit ändern, erweitert oder eingeschränkt werden.
+
+3. TikTok-Integration und Plattform-Richtlinien
+Unabhängigkeit: Dieser Bot ist ein unabhängiges Projekt und wird weder von TikTok Inc. noch von Discord Inc. entwickelt, unterstützt, gesponsert oder offiziell verwaltet.
+
+API-Nutzung: Die TikTok-Funktionen basieren auf öffentlich zugänglichen Schnittstellen oder autorisierten APIs. Nutzer des Bots sind verpflichtet, bei der Nutzung die offiziellen TikTok Community-Richtlinien sowie die Nutzungsbedingungen von Discord einzuhalten.
+
+Verfügbarkeit: Da die TikTok-Integration von externen Schnittstellen und deren Erreichbarkeit abhängt, kann keine Garantie für eine 100%ige Verfügbarkeit oder verzögerungsfreie Live-Benachrichtigungen übernommen werden.
+
+4. Pflichten der Nutzer
+Bei der Nutzung des Bots verpflichtest du dich, Folgendes zu unterlassen:
+
+Den Bot für rechtswidrige Zwecke, Spam oder zur Verbreitung schädlicher Inhalte zu nutzen.
+
+Zu versuchen, den Quellcode, die API-Schnittstellen oder die Infrastruktur des Bots zu manipulieren, zu stören oder unbefugt darauf zuzugreifen.
+
+Den Bot zu nutzen, um Urheberrechte Dritter oder Markenrechte (einschließlich derer von TikTok) zu verletzen.
+
+5. Datenschutz
+Die Nutzung des Bots unterliegt unserer Datenschutzerklärung. Durch die Nutzung des Bots stimmst du zu, dass notwendige Discord-Server-IDs, Kanal-IDs und verknüpfte Social-Media-Benutzernamen verarbeitet werden, um die Benachrichtigungen bereitzustellen. Es werden keine sensiblen personenbezogenen Daten unnötig gespeichert.
+
+6. Haftungsausschluss
+Der Bot wird im „Ist-Zustand“ (As-Is) und ohne jegliche ausdrückliche oder stillschweigende Gewährleistung zur Verfügung gestellt.
+
+Die Entwickler des Bots übernehmen keine Haftung für Schäden, Datenverluste, entgangene Gewinne oder Unterbrechungen, die durch die Nutzung oder Nichtverfügbarkeit des Bots (oder durch Änderungen seitens TikTok/Discord) entstehen.
+
+Sollte TikTok seine API-Struktur ändern oder den Zugriff für Bots einschränken, was zur Einstellung der Funktionen führt, erwächst daraus kein Anspruch gegen die Betreiber dieses Bots.
+
+7. Änderungen der Nutzungsbedingungen
+Die Entwickler behalten sich das Recht vor, diese Nutzungsbedingungen jederzeit zu aktualisieren oder zu ändern. Die fortgesetzte Nutzung des Bots nach solchen Änderungen gilt als Zustimmung zu den neuen Bedingungen.
+
+8. Kontakt
+Bei Fragen, Problemen oder rechtlichen Anfragen zu diesen Nutzungsbedingungen kannst du den Support über atomadler.nikutta@web.de erreichen.
+
+Mit freundlichen Grüßen
+Atomadler
+
+English:
+
+Terms of Service
+Effective: November 8, 2026
+
+1. Scope and Acceptance
+These Terms of Service (hereinafter “Terms”) govern the use of the Discord bot [insert bot name] (hereinafter “Bot”), including its integrated TikTok notification and live features.
+By adding the Bot to a Discord server or using its commands, you fully accept these Terms. If you do not agree to these Terms, you may not use the Bot.
+
+2. Description of the Service
+The Bot provides automated notifications and features for various platforms, specifically the integration of TikTok live streams (e.g., automatic notifications on Discord servers when a specific creator goes live). The scope of features may change, be expanded, or be restricted at any time.
+
+3. TikTok Integration and Platform Guidelines
+Independence: This bot is an independent project and is not developed, supported, sponsored, or officially managed by TikTok Inc. or Discord Inc.
+
+API Usage: The TikTok features are based on publicly available interfaces or authorized APIs. Users of the bot are required to comply with the official TikTok Community Guidelines and Discord’s Terms of Service when using it.
+
+Availability: Since the TikTok integration depends on external interfaces and their availability, no guarantee can be made regarding 100% availability or delay-free live notifications.
+
+4. User Obligations
+When using the bot, you agree to refrain from the following:
+
+Using the bot for illegal purposes, spam, or to distribute harmful content.
+
+Attempting to manipulate, disrupt, or gain unauthorized access to the bot’s source code, API interfaces, or infrastructure.
+
+Using the bot to infringe on third-party copyrights or trademark rights (including those of TikTok).
+
+5. Privacy
+Use of the bot is subject to our Privacy Policy. By using the bot, you agree that necessary Discord server IDs, channel IDs, and linked social media usernames will be processed to provide notifications. No sensitive personal data will be stored unnecessarily.
+6. Disclaimer
+The bot is provided “as is” and without any express or implied warranty.
+
+The bot’s developers assume no liability for damages, data loss, lost profits, or interruptions resulting from the use or unavailability of the bot (or from changes made by TikTok/Discord).
+
+Should TikTok change its API structure or restrict access for bots, resulting in the discontinuation of features, this shall not give rise to any claim against the operators of this bot.
+
+7. Changes to the Terms of Use
+The developers reserve the right to update or modify these Terms of Use at any time. Continued use of the bot following such changes constitutes acceptance of the new terms.
+
+8. Contact
+If you have any questions, issues, or legal inquiries regarding these Terms of Use, you can contact support at atomadler.nikutta@web.de.
+
+Best regards,
+Atomadler

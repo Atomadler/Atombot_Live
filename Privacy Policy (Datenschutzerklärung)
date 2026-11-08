@@ -1,0 +1,134 @@
+Privacy Policy (Datenschutzerklärung)
+Stand: 8. November 2026
+
+1. Verantwortliche Stelle
+Verantwortlich für die Datenverarbeitung im Zusammenhang mit dem Discord-Bot [Name des Bots einfügen] ist:
+
+Atomadler
+
+atomadler.nikutta@web.de
+
+2. Welche Daten wir erheben und verarbeiten
+Um die Kernfunktionen des Bots (insbesondere automatische TikTok-Live-Benachrichtigungen) bereitzustellen, verarbeiten wir ausschließlich die technisch notwendigsten Daten.
+
+a) Automatisch verarbeitete Discord-Daten
+Wenn der Bot auf einem Discord-Server installiert wird oder Befehle ausgeführt werden, speichern/verarbeiten wir:
+
+Server-IDs (Guild-IDs): Zur eindeutigen Zuordnung von Server-Einstellungen.
+
+Kanal-IDs (Channel-IDs): Um zu wissen, in welchem Textkanal die TikTok-Benachrichtigungen gepostet werden sollen.
+
+Rollen-IDs (Optional): Falls du einstellst, dass eine bestimmte Rolle bei einem Live-Stream geppingt werden soll (z. B. @Everyone oder eine custom Live-Rolle).
+
+b) Verarbeitete TikTok-Daten
+TikTok-Benutzernamen / Handles: Die von dir im Bot hinterlegten TikTok-Profilnamen, deren Live-Status überwacht werden soll.
+
+Öffentlich zugängliche Live-Status-Daten: Informationen darüber, ob das jeweilige Profil derzeit live ist, sowie öffentlich abrufbare Stream-Details (z. B. Stream-Titel, Vorschaubild-URL, Stream-Link), um die Benachrichtigungskarte auf Discord zu erstellen.
+
+3. Zweck und Rechtsgrundlage der Datenverarbeitung
+Die Datenverarbeitung erfolgt zu folgenden Zwecken:
+
+Bereitstellung und Ausführung der Funktionen des Bots (z. B. Auslösen von Discord-Benachrichtigungen beim Start eines TikTok-Live-Streams).
+
+Speichern von Server-Konfigurationen, damit Einstellungen nach einem Neustart des Bots erhalten bleiben.
+
+Rechtsgrundlage: Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung bzw. Bereitstellung der vom Nutzer angeforderten Funktion) sowie Art. 6 Abs. 1 lit. f DSGVO (unser berechtigtes Interesse an der sicheren und funktionsfähigen Bereitstellung des Bots).
+
+4. Speicherdauer
+Konfigurationsdaten (Server- & Kanal-IDs, verknüpfte TikTok-Namen): Werden so lange gespeichert, wie der Bot auf deinem Server vorhanden ist und die Integration aktiv ist.
+
+Löschung bei Bot-Entfernung: Wird der Bot von einem Server entfernt (Kicked/Banned) oder wird eine Benachrichtigung über einen Bot-Befehl gelöscht, werden die zugehörigen Konfigurationsdaten innerhalb angemessener Zeit aus unserer Datenbank entfernt.
+
+5. Datenweitergabe an Dritte
+Wir verkaufen, vermieten oder handeln niemals mit deinen Daten.
+
+Discord API: Zur Erstellung von Nachrichten und Interaktion mit dem Discord-Client werden Daten über die offizielle Discord API übertragen.
+
+TikTok Data / API: Um den Live-Status abzufragen, werden die hinterlegten öffentlichen TikTok-Profilnamen mit öffentlich zugänglichen Schnittstellen abgeglichen.
+
+6. Deine Rechte (Betroffenenrechte)
+Nach der DSGVO hast du folgende Rechte bezüglich deiner gespeicherten Daten:
+
+Auskunftsrecht (Art. 15 DSGVO): Du kannst Auskunft darüber verlangen, welche Daten über deinen Server oder Account gespeichert sind.
+
+Recht auf Berichtigung & Löschung (Art. 16 & 17 DSGVO): Du kannst die Korrektur oder vollständige Löschung deiner Konfigurationsdaten beantragen.
+
+Widerspruchsrecht (Art. 21 DSGVO): Du kannst der weiteren Verarbeitung deiner Daten jederzeit widersprechen.
+
+Um deine Rechte auszuüben, wende dich einfach an die in Punkt 1 angegebene Kontaktadresse.
+
+7. Änderungen dieser Datenschutzerklärung
+Wir behalten uns das Recht vor, diese Datenschutzerklärung bei Bedarf anzupassen (z. B. bei neuen Bot-Funktionen oder rechtlichen Änderungen). Das Datum der letzten Aktualisierung am Anfang dieser Seite wird entsprechend angepasst.
+
+Mit freundlichen Grüßen
+Atomadler
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Englisch:
+
+Privacy Policy
+Last updated: November 8, 2026
+
+1. Data Controller
+Responsible for data processing in connection with the Discord bot [Insert Bot Name] is:
+
+Atomadler
+
+atomadler.nikutta@web.de
+
+2. What Data We Collect and Process
+To provide the core functions of the bot (in particular, automated TikTok live notifications), we process exclusively the technically necessary data.
+
+a) Automatically Processed Discord Data
+When the bot is installed on a Discord server or when commands are executed, we store/process:
+
+Server IDs (Guild IDs): For the unique assignment of server settings.
+
+Channel IDs: To know in which text channel the TikTok notifications should be posted.
+
+Role IDs (Optional): If you configure a specific role to be pinged when a live stream starts (e.g., @everyone or a custom live role).
+
+b) Processed TikTok Data
+TikTok Usernames / Handles: The TikTok profile names you register in the bot whose live status is to be monitored.
+
+Publicly Accessible Live Status Data: Information on whether the respective profile is currently live, as well as publicly available stream details (e.g., stream title, thumbnail URL, stream link) to generate the notification card on Discord.
+
+3. Purpose and Legal Basis of Data Processing
+Data processing is carried out for the following purposes:
+
+Providing and executing the functions of the bot (e.g., triggering Discord notifications when a TikTok live stream starts).
+
+Storing server configurations so that settings are retained after a restart of the bot.
+
+Legal Basis: Processing is based on Art. 6 para. 1 lit. b GDPR (performance of a contract or provision of the service requested by the user) as well as Art. 6 para. 1 lit. f GDPR (our legitimate interest in the secure and functional provision of the bot).
+
+4. Retention Period
+Configuration Data (Server & Channel IDs, Linked TikTok Names): Stored as long as the bot is present on your server and the integration is active.
+
+Deletion Upon Bot Removal: If the bot is removed from a server (kicked/banned) or if a notification is deleted via a bot command, the associated configuration data will be removed from our database within a reasonable timeframe.
+
+5. Sharing Data with Third Parties
+We never sell, rent, or trade your data.
+
+Discord API: To create messages and interact with the Discord client, data is transmitted via the official Discord API.
+
+TikTok Data / API: To query the live status, the stored public TikTok profile names are matched with publicly accessible interfaces.
+
+6. Your Rights (Data Subject Rights)
+Under the GDPR, you have the following rights regarding your stored data:
+
+Right of Access (Art. 15 GDPR): You can request information about what data is stored regarding your server or account.
+
+Right to Rectification & Erasure (Art. 16 & 17 GDPR): You can request the correction or complete deletion of your configuration data.
+
+Right to Object (Art. 21 GDPR): You can object to the further processing of your data at any time.
+
+To exercise your rights, simply contact the address specified in Section 1.
+
+7. Changes to This Privacy Policy
+We reserve the right to update or modify this Privacy Policy as needed (e.g., due to new bot features or legal changes). The date of the last update at the top of this page will be adjusted accordingly.
+
+Best regards,
+
+Atomadler
